@@ -11,4 +11,7 @@ setup(
     author_email='guese.justin@gmail.com',
 
     py_modules=['mongodblogger'],
+    install_requires=[
+    'requests'
+    ]
 )
