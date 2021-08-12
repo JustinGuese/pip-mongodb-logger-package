@@ -1,6 +1,6 @@
 from requests import post
 
-__version:__ = "0.1"
+__version__ = "0.1"
 
 class MongoDBLogger:  
     def __init__(self, auth_pw, logging_url ='http://localhost:8888', appname ='mongodblogger') -> None:

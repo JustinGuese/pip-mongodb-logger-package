@@ -6,9 +6,9 @@ setup(
     name='mongodblogger',
     version=__version__,
 
-    url='https://github.com/MichaelKim0407/tutorial-pip-package',
+    url='https://github.com/JustinGuese/pip-mongodb-logger-package',
     author='Justin Guese',
     author_email='guese.justin@gmail.com',
 
-    py_modules=['my_pip_package'],
+    py_modules=['mongodblogger'],
 )
